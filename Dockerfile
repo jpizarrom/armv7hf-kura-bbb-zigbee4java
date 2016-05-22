@@ -1,4 +1,4 @@
-FROM jpizarrom/armv7hf-kura-bbb:1.3.0
+FROM jpizarrom/armv7hf-kura-bbb:1.4.0
 
 RUN [ "cross-build-start" ]
 
