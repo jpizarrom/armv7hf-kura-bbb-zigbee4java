@@ -1,4 +1,4 @@
-FROM jpizarrom/armv7hf-kura-bbb:1.4.0
+FROM jpizarrom/beaglebone-kura:1.4.0-20160704
 
 RUN [ "cross-build-start" ]
 
