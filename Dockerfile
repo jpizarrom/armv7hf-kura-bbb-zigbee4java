@@ -1,4 +1,4 @@
-FROM jpizarrom/beaglebone-kura:1.4.0-20160704
+FROM jpizarrom/beaglebone-kura:2.0.1-20161009
 
 RUN [ "cross-build-start" ]
 
