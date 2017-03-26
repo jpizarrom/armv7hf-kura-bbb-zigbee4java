@@ -1,4 +1,4 @@
-FROM jpizarrom/beaglebone-kura:2.1.0-20170317003913-oracle-java7
+FROM jpizarrom/beaglebone-kura:2.1.0-20170326104831-oracle-java7
 
 RUN [ "cross-build-start" ]
 
